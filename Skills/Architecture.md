@@ -1,14 +1,15 @@
 ## Architecture
+- 👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
+  - Modularity 👂 heard
+  - Components 👂 heard
+  - Directories 👂 heard
   - GRASP
   - SOLID
   - GoF patterns
   - CQS
-  - Leaking abstractions
+  - Leaking abstractions 👂 heard
   - Multiparadigm code
   - Contract programming
   - Platform-agnostic
@@ -80,11 +81,11 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
+  - Understanding business needs 🎓 known
+  - Enterprise strategy 🎓 known
   - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
+  - Enterprise vision 🎓 known
+  - Enterprise capabilities 🎓 known
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture

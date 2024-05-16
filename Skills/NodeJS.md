@@ -11,15 +11,15 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules 🎓 known
+  - ECMAScript modules 🎓 known
   - Module `node:module`
-  - Caching in CJS and ESM👂 heard
-  - Modules as singletons👂 heard
-  - Contexts and scripts module `node:vm`🖐️ used
-  - Dependencies: `npm`, `node_modules`🖐️ used
+  - Caching in CJS and ESM 👂 heard
+  - Modules as singletons 👂 heard
+  - Contexts and scripts module `node:vm` 🖐️ used
+  - Dependencies: `npm`, `node_modules` 🖐️ used
   - Files `package.json`, `package-lock.json`👂 heard
-  - Module-based permissions model👂 heard
+  - Module-based permissions model 👂 heard
   - Isolation with modularity
   - Dependency injection 👂 heard
   - DI containers

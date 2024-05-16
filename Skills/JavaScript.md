@@ -43,7 +43,7 @@
   - Template literal👂 heard
   - Strict mode👂 heard
   - Hoisting👂 heard
-  - `delete`
+  - `delete` 🎓 known
   - `in`🎓 known
   - `super`
   - `eval`

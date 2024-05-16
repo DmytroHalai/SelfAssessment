@@ -1,22 +1,21 @@
-- 👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
 - Language
-    - Object 🖐️ used
-    - boolean 🖐️ used
-    - char 🖐️ used
-    - byte 🖐️ used
-    - short 🖐️ used
-    - int 🖐️ used
-    - long 🖐️ used
-    - float 🖐️ used
-    - double 🖐️ used
-    - String 🖐️ used
+    - Object 🙋 explained
+    - boolean 🙋 explained
+    - char 🙋 explained
+    - byte 🙋 explained
+    - short 🙋 explained
+    - int 🙋 explained
+    - long 🙋 explained
+    - float 🙋 explained
+    - double 🙋 explained
+    - String 🙋 explained
     - enum 👂 heard
-    - null 🖐️ used
-    - this 🖐️ used
+    - null 🙋 explained
+    - this 🙋 explained
     - instanceof 🖐️ used
     - Varargs
     - Autoboxing and Unboxing 👂 heard
-    - typeof 🖐️ used
+    - typeof 🙋 explained
     - Generics 🖐️ used
     - Annotations
     - Lambda expressions 🖐️ used
@@ -26,35 +25,35 @@
     - static 🖐️ used
     - final 🖐️ used
     - throw 🖐️ used
-    - try..catch 🖐️ used
-    - switch 🖐️ used
-    - class 🖐️ used
-    - extends 🖐️ used
+    - try..catch 🙋 explained
+    - switch 🙋 explained
+    - class 🙋 explained
+    - extends 🙋 explained
     - implements
     - new 🖐️ used
-    - return 🖐️ used
-    - break 🖐️ used
-    - continue 🖐️ used
+    - return 🙋 explained
+    - break 🙋 explained
+    - continue 🙋 explained
     - import 🖐️ used
     - package 🖐️ used
-    - label
+    - label 👂 heard
     - synchronized 👂 heard
     - instanceof 🖐️ used
     - assert
-    - do..while 🖐️ used
-    - for 🖐️ used
-    - while 🖐️ used
+    - do..while 🙋 explained
+    - for 🙋 explained
+    - while 🙋 explained
 - Functions
     - Method declaration 🎓 known
     - Lambda expressions 🎓 known
     - Functional interfaces 🎓 known
     - return 🎓 known
 - Data structures
-    - Array 🖐️ used
-    - List 🖐️ used
-    - Map 🖐️ used
+    - Array 🙋 explained
+    - List 🙋 explained
+    - Map 🙋 explained
     - Set 🖐️ used
-    - Arrays 🖐️ used
+    - Arrays 🙋 explained
     - Object.clone 👂 heard
     - Arrays.copyOf 👂 heard
 - Standard classes and namespaces
