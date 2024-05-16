@@ -1,11 +1,11 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model🎓 known
-  - Modeling🎓 known
+  - Model 🎓 known
+  - Modeling 🎓 known
   - Subject domain
-  - Algorithm🎓 known
-  - Syntax
+  - Algorithm 🎓 known
+  - Syntax 🎓 known
   - Semantics
   - Abstraction🎓 known
   - Paradigm🎓 known
@@ -75,7 +75,7 @@
   - Static typing 👂 heard
   - Dynamic typing 👂 heard
   - Nominal typing
-  - Structural typing
+  - Structural typing 🎓 known
   - Explicit typing
   - Type inference
   - Covariance
