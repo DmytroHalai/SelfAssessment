@@ -1,53 +1,53 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming🎓 known
-  - Imperative programming🎓 known
-  - Structured programming🎓 known
-  - Non-structured programming🎓 known
-  - Functional programming🖐️ used
-  - Prototype-based programming🎓 known
-  - Object-oriented programming🎓 known
-  - Object-based programming🎓 known
-  - Generic programming👂 heard
-  - Concurrent computing👂 heard
-  - Asyncronous programming🎓 known
-  - Parallel programming🎓 known
-  - Reactive programming👂 heard
-  - Functional-reactive (FRP)👂 heard
-  - Automata-based programming👂 heard
-  - Domain-specific languages👂 heard
-  - Multi-paradigm programming👂 heard
-  - Metaprogramming👂 heard
-  - Actor model👂 heard
-  - Lambda calculus👂 heard
+  - Procedural programming: 🎓 known
+  - Imperative programming: 🎓 known
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 🎓 known
+  - Object-oriented programming: 🎓 known
+  - Object-based programming: 🎓 known
+  - Generic programming: 👂 heard
+  - Concurrent computing: 👂 heard
+  - Asyncronous programming: 🎓 known
+  - Parallel programming: 🎓 known
+  - Reactive programming: 👂 heard
+  - Functional-reactive (FRP): 👂 heard
+  - Automata-based programming: 👂 heard
+  - Domain-specific languages: 👂 heard
+  - Multi-paradigm programming: 👂 heard
+  - Metaprogramming: 👂 heard
+  - Actor model: 👂 heard
+  - Lambda calculus: 👂 heard
   - Black box
   - Information hiding
-  - Aspect-oriented programming👂 heard
+  - Aspect-oriented programming: 👂 heard
   - Anemic domain model
-  - Class composition👂 heard
+  - Class composition: 👂 heard
 - OOP basics
-  - Constructor 🖐️ used
-  - Operator `new` 🖐️ used
-  - Static method 🖐️ used
-  - Method 🖐️ used
-  - Async method 🖐️ used
-  - Getters, Setters 🖐️ used
-  - Public fields 🖐️ used
-  - Private fields 🖐️ used
-  - Field declarations 🖐️ used
-  - Inheritance👂 heard
-  - Parent class 🖐️ used
-  - Polymorphism 🖐️ used
-  - Abstract class 🖐️ used
-  - Interface 🖐️ used
-  - Encapsulation 🖐️ used
-  - Hidden class 🖐️ used
-  - Object form 🖐️ used
-  - Instance 🖐️ used
-  - Introspection👂 heard
-  - Reflection👂 heard
-  - The diamond problem👂 heard
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 👂 heard
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Hidden class: 🖐️ used
+  - Object form: 🖐️ used
+  - Instance: 🖐️ used
+  - Introspection: 👂 heard
+  - Reflection: 👂 heard
+  - The diamond problem: 👂 heard
 - GRASP
   - Information expert
   - Creator
@@ -65,26 +65,26 @@
   - Dependency inversion principle (DIP)
 - Patterns
   - Singleton
-  - Factory Method 👂 heard
-  - Abstract Factory 👂 heard
+  - Factory Method: 👂 heard
+  - Abstract Factory: 👂 heard
   - Adapter
-  - Observer 👂 heard
-  - Strategy 👂 heard
+  - Observer: 👂 heard
+  - Strategy: 👂 heard
   - Facade
-  - Proxy 👂 heard
-  - Chain of Responsibility 👂 heard
-  - Command 👂 heard
-  - Iterator 👂 heard
+  - Proxy: 👂 heard
+  - Chain of Responsibility: 👂 heard
+  - Command: 👂 heard
+  - Iterator: 👂 heard
   - State
-  - Bridge 👂 heard
-  - Builder 👂 heard
-  - Prototype 🖐️ used
+  - Bridge: 👂 heard
+  - Builder: 👂 heard
+  - Prototype: 🖐️ used
   - Composite
   - Decorator
   - Flyweight
   - Mediator
   - Memento
-  - Template Method 👂 heard
+  - Template Method: 👂 heard
   - Visitor
   - Reactor
   - Active object

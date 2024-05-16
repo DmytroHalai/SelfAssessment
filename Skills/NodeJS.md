@@ -1,41 +1,41 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js 👂 heard
-  - Stateful and stateless servers 👂 heard
-  - Nonblocking I/O and blocking code 👂 heard
-  - Event loop phases 👂 heard
-  - Event loop microtasks and macrotasks 👂 heard
-  - Garbage collection 👂 heard
+  - Strong and weak sides of node.js: 👂 heard
+  - Stateful and stateless servers: 👂 heard
+  - Nonblocking I/O and blocking code: 👂 heard
+  - Event loop phases: 👂 heard
+  - Event loop microtasks and macrotasks: 👂 heard
+  - Garbage collection: 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules 🎓 known
-  - ECMAScript modules 🎓 known
+  - CommonJS modules: 🎓 known
+  - ECMAScript modules: 🎓 known
   - Module `node:module`
-  - Caching in CJS and ESM 👂 heard
-  - Modules as singletons 👂 heard
-  - Contexts and scripts module `node:vm` 🖐️ used
-  - Dependencies: `npm`, `node_modules` 🖐️ used
-  - Files `package.json`, `package-lock.json`👂 heard
-  - Module-based permissions model 👂 heard
+  - Caching in CJS and ESM: 👂 heard
+  - Modules as singletons: 👂 heard
+  - Contexts and scripts module `node:vm`: 🖐️ used
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 👂 heard
+  - Module-based permissions model: 👂 heard
   - Isolation with modularity
-  - Dependency injection 👂 heard
+  - Dependency injection: 👂 heard
   - DI containers
   - Coupling and cohesion
-  - Framework agnostic approach 👂 heard
+  - Framework agnostic approach: 👂 heard
 - Environment
-  - Command line arguments 🎓 known
-  - Node.js CLI 🎓 known
+  - Command line arguments: 🎓 known
+  - Node.js CLI: 🎓 known
   - Process-based permissions
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API👂 heard
-  - Web Streams API👂 heard
-  - Crypto API👂 heard
+  - Streams API: 👂 heard
+  - Web Streams API: 👂 heard
+  - Crypto API: 👂 heard
   - Password hashing with crypto.scrypt
   - Web Crypto API
   - File system API (sync and async)
@@ -73,7 +73,7 @@
   - TLS
   - Websocket
   - SSE
-  - HTTP/3 (QUIC) 👂 heard
+  - HTTP/3 (QUIC): 👂 heard
   - Long polling
   - REST
   - RPC
@@ -110,11 +110,11 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`👂 heard
-  - `error.cause`👂 heard
-  - `error.code`👂 heard
-  - `error.message`👂 heard
-  - `error.stack`👂 heard
+  - `Error`: 👂 heard
+  - `error.cause`: 👂 heard
+  - `error.code`: 👂 heard
+  - `error.message`: 👂 heard
+  - `error.stack`: 👂 heard
   - `Error.captureStackTrace`
   - How to avoid mixins
   - Uncaught exceptions
@@ -140,5 +140,4 @@
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
   - Shared memory
-  - SharedArrayBuffer
   - V8 binary serialization

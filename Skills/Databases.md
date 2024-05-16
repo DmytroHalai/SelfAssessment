@@ -36,33 +36,33 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` 🎓 known
-  - `INSERT` 🎓 known
-  - `UPDATE` 🎓 known
-  - `DELETE` 🎓 known
+  - `SELECT`: 🎓 known
+  - `INSERT`: 🎓 known
+  - `UPDATE`: 🎓 known
+  - `DELETE`: 🎓 known
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY` 🎓 known
-  - `GROUP BY` 🎓 known
-  - `HAVING` 🎓 known
+  - `ORDER BY`: 🎓 known
+  - `GROUP BY`: 🎓 known
+  - `HAVING`: 🎓 known
   - `EXISTS`
-  - `JOIN` 🎓 known
-  - `INNER JOIN` 🎓 known
-  - `LEFT JOIN` 🎓 known
-  - `RIGHT JOIN` 🎓 known
-  - `UNION` 🎓 known
+  - `JOIN`: 🎓 known
+  - `INNER JOIN`: 🎓 known
+  - `LEFT JOIN`: 🎓 known
+  - `RIGHT JOIN`: 🎓 known
+  - `UNION`: 🎓 known
   - `DISTINCT`
-  - `WHERE` 🎓 known
+  - `WHERE`: 🎓 known
   - `LIKE`
-  - `IN` 🎓 known
+  - `IN`: 🎓 known
   - `BETWEEN`
-  - `CREATE TABLE` 🎓 known
+  - `CREATE TABLE`: 🎓 known
   - `ALTER TABLE`
-  - `DROP TABLE` 🎓 known
+  - `DROP TABLE`: 🎓 known
   - `PRIMARY KEY`
   - `FOREIGN KEY`
   - `CHECK`
-  - `DEFAULT` 🎓 known
+  - `DEFAULT`: 🎓 known
   - `INDEX`
   - `UNIQUE`
   - `GRANT`
@@ -70,9 +70,9 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL 🎓 known
-  - Oracle 🎓 known
-  - MySQL 🎓 known
+  - PostgreSQL: 🎓 known
+  - Oracle: 🎓 known
+  - MySQL: 🎓 known
   - MariaDB
   - MS SQL Server
   - Redis
