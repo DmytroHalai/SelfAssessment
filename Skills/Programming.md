@@ -1,27 +1,27 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model: 🎓 known
+  - Model: 🖐️ used
   - Modeling: 🎓 known
   - Subject domain
-  - Algorithm: 🎓 known
-  - Syntax: 🎓 known
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
   - Semantics
-  - Abstraction: 🎓 known
-  - Paradigm: 🎓 known
-  - Programm: 🎓 known
-  - Programming paradigm: 🎓 known
-  - Programming language: 🎓 known
+  - Abstraction: 🖐️ used
+  - Paradigm: 🖐️ used
+  - Programm: 🖐️ used
+  - Programming paradigm: 🖐️ used
+  - Programming language: 🖐️ used
   - Contract
-  - Module: 🎓 known
-  - Library: 🎓 known
+  - Module: 🖐️ used
+  - Library: 🖐️ used
   - Package: 🎓 known
   - Component: 🎓 known
-  - Framework: 🎓 known
+  - Framework: 🖐️ used
   - Platform
-  - Source code: 🎓 known
-  - Object code: 🎓 known
-  - Machine code: 🎓 known
+  - Source code: 🖐️ used
+  - Object code: 🖐️ used
+  - Machine code: 🖐️ used
   - Microcode
   - Software engineering: 🎓 known
   - Decomposition
@@ -29,8 +29,8 @@
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY): 🎓 known
-  - KISS principle: 🎓 known
+  - Don't repeat yourself (DRY): 🖐️ used
+  - KISS principle: 🖐️ used
 - Syntax and concepts
   - Value: 🖐️ used
   - Identifier: 🖐️ used
@@ -60,8 +60,8 @@
   - Naming conventions: 🖐️ used
   - Coding conventions: 🖐️ used
   - Camel case: 🖐️ used
-  - Snake case: 👂 heard
-  - Kebab case: 👂 heard
+  - Snake case: 🖐️ used
+  - Kebab case: 🖐️ used
   - Trailing commas
   - Return early: 🖐️ used
   - Fail-fast
@@ -70,9 +70,9 @@
   - Reference types: 🖐️ used
   - Type systems: 🖐️ used
   - Strong typing: 🖐️ used
-  - Weak typeing: 👂 heard
+  - Weak typing: 🖐️ used
   - Duck typing: 👂 heard
-  - Static typing: 👂 heard
+  - Static typing: 🖐️ used
   - Dynamic typing: 👂 heard
   - Nominal typing
   - Structural typing: 🎓 known
@@ -84,25 +84,25 @@
   - Signature: 🖐️ used
   - Argument: 🖐️ used
   - Parameter: 🖐️ used
-  - Pure function: 🎓 known
+  - Pure function: 🖐️ used
   - Lambda expression: 🖐️ used
   - Side effects: 👂 heard
   - Closure: 👂 heard
   - Partial application: 👂 heard
   - Currying: 👂 heard
   - Higher order: 👂 heard
-  - Recursion: 🎓 known
+  - Recursion: 🖐️ used
   - Tail call optimisation: 🎓 known
-  - Callback: 🎓 known
-  - Listener: 🎓 known
+  - Callback: 🖐️ used
+  - Listener: 🖐️ used
   - Composition: 🎓 known
   - Pipe: 👂 heard
   - Memoize: 👂 heard
-  - Wrapper: 🎓 known
+  - Wrapper: 🖐️ used
   - Functor: 👂 heard
   - Monad: 👂 heard
   - Monoid: 👂 heard
-  - Generator: 👂 heard
+  - Generator: 🖐️ used
   - Coroutine: 👂 heard
 - Data structures
   - Array: 🖐️ used
@@ -113,59 +113,59 @@
   - Оbject: 🖐️ used
   - Collection: 🖐️ used
   - Set: 🖐️ used
-  - Hash table: 🎓 known
-  - Linked list: 🎓 known
-  - Doubly list: 🎓 known
-  - Unrolled list: 🎓 known
+  - Hash table: 🖐️ used
+  - Linked list: 🖐️ used
+  - Doubly list: 🖐️ used
+  - Unrolled list: 🖐️ used
   - Circular list: 🎓 known
-  - Queue: 🎓 known
-  - Stack: 🎓 known
-  - Deque: 👂 heard
-  - Tree: 🎓 known
-  - Graph: 🎓 known
+  - Queue: 🖐️ used
+  - Stack: 🖐️ used
+  - Deque: 🖐️ used
+  - Tree: 🖐️ used
+  - Graph: 🖐️ used
   - Iterator: 🎓 known
   - Mutable state: 🎓 known
   - Immutable state: 🎓 known
   - Serialization
-  - String parsing: 🎓 known
-  - JSON: 👂 heard
+  - String parsing: 🖐️ used
+  - JSON: 🖐️ used
   - JSON5: 👂 heard
   - YAML
 - Networking
-  - DNS
+  - DNS 🖐️ used
   - CDN
   - CORS
-  - IPv4: 👂 heard
-  - IPv6: 👂 heard
-  - NAT
-  - URL: 👂 heard
+  - IPv4: 🖐️ used
+  - IPv6: 🖐️ used
+  - NAT 🖐️ used
+  - URL: 🖐️ used
   - URN
   - URI: 👂 heard
 - Process and tools
-  - Compiler: 🎓 known
+  - Compiler: 🖐️ used
   - Just-in-time compilation: 🎓 known
   - Ahead-of-time compilation: 🎓 known
   - Transpiler: 📢 talked
-  - Linter: 📢 talked
+  - Linter: 🖐️ used
   - Polyfill: 👂 heard
   - Interpreter: 👂 heard
-  - Linker: 👂 heard
+  - Linker: 🖐️ used
   - Dynamic linking: 👂 heard
   - Static linking: 👂 heard
-  - Runtime: 👂 heard
-  - Virtual machine: 🎓 known
+  - Runtime: 🖐️ used
+  - Virtual machine: 🖐️ used
   - Register-based VM: 🎓 known
   - Stack-based VM: 👂 heard
   - Containerization: 👂 heard
-  - Debugger: 🎓 known
+  - Debugger: 🖐️ used
   - Tracing: 👂 heard
   - Garbage collection: 🎓 known
-  - Refactoring: 🎓 known
-  - Code review: 🎓 known
+  - Refactoring: 🖐️ used
+  - Code review: 🖐️ used
   - Exception: 🎓 known
-  - Unittesting: 🎓 known
-  - git: 🎓 known
-  - Github: 🎓 known
+  - Unittesting: 🖐️ used
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker: 👂 heard
   - Kubernetes: 👂 heard
   - GCC: 👂 heard
@@ -200,11 +200,11 @@
   - Data clump: 🎓 known
   - Feature envy: 🎓 known
   - Monkey patch: 🎓 known
-  - Yo-yo problem: 🎓 known
+  - Yo-yo problem: 👂 heard
 - Runtimes and virtual machines
-  - Bytecode: 📢 talked
-  - V8: 📢 talked
-  - VJM: 🎓 known
+  - Bytecode: 👂 heard
+  - V8: 🎓 known
+  - VJM: 👂 heard
   - CLR: 👂 heard
   - Mono: 👂 heard
 - Operation systems
@@ -214,7 +214,7 @@
   - Ring: 👂 heard
   - Virtual memory: 👂 heard
   - File system: 👂 heard
-  - Linux: 🎓 known
+  - Linux: 👂 heard
   - Unix
   - BSD
   - MacOS: 🎓 known
