@@ -46,15 +46,15 @@
   - `delete`: 🖐️ used
   - `in`: 🖐️ used
   - `super` 🖐️ used
-  - `eval`
+  - `eval`👂 heard
   - `static`: 🖐️ used
   - `Number.parseInt`: 🖐️ used
   - `Number.parseFloat`: 🖐️ used
-  - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
-  - Instance class fields
+  - Property descriptors 👂 heard
+  - Sealing properties 👂 heard
+  - Freezing properties 👂 heard
+  - Computed properties 👂 heard
+  - Instance class fields 👂 heard
   - Static class fields: 🎓 known
   - Private class fields: 🎓 known
   - Private class methods: 🎓 known
@@ -95,18 +95,18 @@
   - `Set`: 🖐️ used
   - Weak collections: 👂 heard
   - Typed arrays: 🖐️ used
-  - Mixins: 🖐️ used
+  - Mixins
   - `Object.assign`: 👂 heard
 - Standard classes and namespaces
-  - `Proxy`: 🎓 known
-  - `RegExp`
+  - `Proxy`
+  - `RegExp`👂 heard
   - `Date`: 🖐️ used
   - `Math`: 🖐️ used
-  - `Reflect`
+  - `Reflect`👂 heard
   - `Error`: 🖐️ used
-  - `Atomics`
+  - `Atomics`👂 heard
   - `JSON`: 🖐️ used
-  - `WeakRef`
+  - `WeakRef`👂 heard
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`: 🎓 known
@@ -114,8 +114,8 @@
   - Timers
 - Infrastructure
   - V8: 🖐️ used
-  - Node.js: 📢 talked
-  - npm: 📢 talked
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
   - prettier: 🖐️ used
-  - MDN: 📢 talked
+  - MDN: 👂 heard
   - TC39
