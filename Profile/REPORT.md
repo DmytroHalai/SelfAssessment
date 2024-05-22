@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-456/616/733-FF3300?style=flat-square)](https://github.com/DmytroHalai/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-470/616/733-FF3300?style=flat-square)](https://github.com/DmytroHalai/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-456/616/733-FF3300?style=flat-square)](https://github.com/DmytroHalai/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-470/616/733-FF3300?style=flat-square)](https://github.com/DmytroHalai/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/DmytroHalai/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-456/616/733-FF3300?style=flat-square"></a>
+<a href="https://github.com/DmytroHalai/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-470/616/733-FF3300?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -15,23 +15,23 @@
 | Unit | Marked | Of |
 | ---- | ------ | -- |
 | [Programming](/Skills/Programming.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `20` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `23` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `31` | `33` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Types | `9` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `23` | `23` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `24` | `26` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Networking | `4` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Networking | `6` | `9` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `28` | `28` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `30` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `5` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Operation systems | `11` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `0` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `50` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `57` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `19` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `10` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `7` | `7` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `7` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `6` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `10` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `5` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `19` | `20` |
@@ -68,71 +68,41 @@
 
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Equality operators | 🎓 known | ⟶  | 🖐️ used |
-| Logical operators | 🎓 known | ⟶  | 🖐️ used |
-| Ternary operator | 🎓 known | ⟶  | 🖐️ used |
-| Template literal | 👂 heard | ⟶  | 🖐️ used |
-| Strict mode | 👂 heard | ⟶  | 🖐️ used |
-| `super` | 🤷 unknown | ⟶  | 🖐️ used |
-| Async function | 👂 heard | ⟶  | 🎓 known |
-| Mixins | 👂 heard | ⟶  | 🎓 known |
+| Mixins | 🤷 unknown | ⟶  | 🎓 known |
 | `Object.assign` | 👂 heard | ⟶  | 🎓 known |
-| `Error` | 🎓 known | ⟶  | 🖐️ used |
-| `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
+| `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
-| `console` | 🎓 known | ⟶  | 🖐️ used |
 | Timers | 🤷 unknown | ⟶  | 🖐️ used |
-| prettier | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `57` of `72` skills, `15` to be upgraded, and `19` above needed
+Total: you have `67` of `72` skills, `5` to be upgraded, and `24` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
 | Async generator | 🎓 known | ⟶  | 🖐️ used |
 | Async iterator | 🎓 known | ⟶  | 🖐️ used |
 | Chaining | 👂 heard | ⟶  | 🖐️ used |
-| IIFE | 👂 heard | ⟶  | 🖐️ used |
-| Async IIFE | 👂 heard | ⟶  | 🖐️ used |
 | `global` | 🎓 known | ⟶  | 🖐️ used |
 | `globalThis` | 🎓 known | ⟶  | 🖐️ used |
 | Getters and setters | 🎓 known | ⟶  | 🖐️ used |
-| Equality operators | 🎓 known | ⟶  | 🖐️ used |
-| Logical operators | 🎓 known | ⟶  | 🖐️ used |
-| Ternary operator | 🎓 known | ⟶  | 🖐️ used |
 | `void` | 🎓 known | ⟶  | 🖐️ used |
 | `yield` | 🎓 known | ⟶  | 🖐️ used |
-| `await` | 🎓 known | ⟶  | 🖐️ used |
-| Template literal | 👂 heard | ⟶  | 🖐️ used |
-| Strict mode | 👂 heard | ⟶  | 🖐️ used |
-| `delete` | 🎓 known | ⟶  | 🖐️ used |
-| `super` | 🤷 unknown | ⟶  | 🖐️ used |
-| `eval` | 🤷 unknown | ⟶  | 🎓 known |
-| `static` | 🎓 known | ⟶  | 🖐️ used |
-| `Number.parseInt` | 🎓 known | ⟶  | 🖐️ used |
-| `Number.parseFloat` | 🎓 known | ⟶  | 🖐️ used |
-| Property descriptors | 🤷 unknown | ⟶  | 🎓 known |
-| Sealing properties | 🤷 unknown | ⟶  | 🎓 known |
-| Freezing properties | 🤷 unknown | ⟶  | 🎓 known |
-| Computed properties | 🤷 unknown | ⟶  | 🎓 known |
-| Instance class fields | 🤷 unknown | ⟶  | 🎓 known |
-| Async function | 👂 heard | ⟶  | 🖐️ used |
+| `eval` | 👂 heard | ⟶  | 🎓 known |
+| Property descriptors | 👂 heard | ⟶  | 🎓 known |
+| Sealing properties | 👂 heard | ⟶  | 🎓 known |
+| Freezing properties | 👂 heard | ⟶  | 🎓 known |
+| Computed properties | 👂 heard | ⟶  | 🎓 known |
+| Instance class fields | 👂 heard | ⟶  | 🎓 known |
 | Weak collections | 👂 heard | ⟶  | 🎓 known |
-| Typed arrays | 👂 heard | ⟶  | 🎓 known |
+| Mixins | 🤷 unknown | ⟶  | 👂 heard |
 | `Object.assign` | 👂 heard | ⟶  | 🎓 known |
-| `RegExp` | 🤷 unknown | ⟶  | 🎓 known |
-| `Reflect` | 🤷 unknown | ⟶  | 🎓 known |
-| `Error` | 🎓 known | ⟶  | 🖐️ used |
-| `Atomics` | 🤷 unknown | ⟶  | 👂 heard |
-| `JSON` | 🎓 known | ⟶  | 🖐️ used |
-| `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
+| `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
+| `RegExp` | 👂 heard | ⟶  | 🎓 known |
+| `Reflect` | 👂 heard | ⟶  | 🎓 known |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 | `Promise` | 🎓 known | ⟶  | 🖐️ used |
-| `console` | 🎓 known | ⟶  | 🖐️ used |
 | Timers | 🤷 unknown | ⟶  | 🖐️ used |
-| V8 | 👂 heard | ⟶  | 🖐️ used |
-| prettier | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `54` of `97` skills, `43` to be upgraded, and `5` above needed
+Total: you have `74` of `97` skills, `23` to be upgraded, and `9` above needed
 
 ## [Async](/Skills/Async.md)
 

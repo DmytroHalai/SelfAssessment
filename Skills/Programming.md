@@ -22,13 +22,13 @@
   - Source code: 🖐️ used
   - Object code: 🖐️ used
   - Machine code: 🖐️ used
-  - Microcode🖐️ used
+  - Microcode: 🖐️ used
   - Software engineering: 🎓 known
-  - Decomposition🖐️ used
+  - Decomposition: 🖐️ used
   - Control flow
   - Data flow
   - Code reuse
-  - Defensive programming🖐️ used
+  - Defensive programming: 🖐️ used
   - Don't repeat yourself (DRY): 🖐️ used
   - KISS principle: 🖐️ used
 - Syntax and concepts
@@ -132,12 +132,12 @@
   - JSON5: 👂 heard
   - YAML
 - Networking
-  - DNS 🖐️ used
+  - DNS: 🖐️ used
   - CDN
   - CORS
   - IPv4: 🖐️ used
   - IPv6: 🖐️ used
-  - NAT 🖐️ used
+  - NAT: 🖐️ used
   - URL: 🖐️ used
   - URN
   - URI: 👂 heard

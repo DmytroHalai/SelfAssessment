@@ -45,16 +45,16 @@
   - Hoisting: 👂 heard
   - `delete`: 🖐️ used
   - `in`: 🖐️ used
-  - `super` 🖐️ used
-  - `eval`👂 heard
+  - `super`: 🖐️ used
+  - `eval`: 👂 heard
   - `static`: 🖐️ used
   - `Number.parseInt`: 🖐️ used
   - `Number.parseFloat`: 🖐️ used
-  - Property descriptors 👂 heard
-  - Sealing properties 👂 heard
-  - Freezing properties 👂 heard
-  - Computed properties 👂 heard
-  - Instance class fields 👂 heard
+  - Property descriptors: 👂 heard
+  - Sealing properties: 👂 heard
+  - Freezing properties: 👂 heard
+  - Computed properties: 👂 heard
+  - Instance class fields: 👂 heard
   - Static class fields: 🎓 known
   - Private class fields: 🎓 known
   - Private class methods: 🎓 known
@@ -99,14 +99,14 @@
   - `Object.assign`: 👂 heard
 - Standard classes and namespaces
   - `Proxy`
-  - `RegExp`👂 heard
+  - `RegExp`: 👂 heard
   - `Date`: 🖐️ used
   - `Math`: 🖐️ used
-  - `Reflect`👂 heard
+  - `Reflect`: 👂 heard
   - `Error`: 🖐️ used
-  - `Atomics`👂 heard
+  - `Atomics`: 👂 heard
   - `JSON`: 🖐️ used
-  - `WeakRef`👂 heard
+  - `WeakRef`: 👂 heard
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`: 🎓 known
