@@ -22,13 +22,13 @@
   - Source code: 🖐️ used
   - Object code: 🖐️ used
   - Machine code: 🖐️ used
-  - Microcode
+  - Microcode🖐️ used
   - Software engineering: 🎓 known
-  - Decomposition
+  - Decomposition🖐️ used
   - Control flow
   - Data flow
   - Code reuse
-  - Defensive programming
+  - Defensive programming🖐️ used
   - Don't repeat yourself (DRY): 🖐️ used
   - KISS principle: 🖐️ used
 - Syntax and concepts
