@@ -24,32 +24,32 @@
   - Async iterator: 🎓 known
   - Chaining: 👂 heard
   - Optional chaining: 👂 heard
-  - IIFE: 👂 heard
-  - Async IIFE: 👂 heard
+  - IIFE: 🖐️ used
+  - Async IIFE: 🖐️ used
   - `global`: 🎓 known
   - `globalThis`: 🎓 known
   - `window`: 👂 heard
   - Getters and setters: 🎓 known
   - `__proto__`: 👂 heard
   - `prototype`: 👂 heard
-  - Equality operators: 🎓 known
-  - Logical operators: 🎓 known
-  - Logical Assignment: 🎓 known
-  - Bitwise operators: 🎓 known
-  - Ternary operator: 🎓 known
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🖐️ used
+  - Bitwise operators: 🖐️ used
+  - Ternary operator: 🖐️ used
   - `void`: 🎓 known
   - `yield`: 🎓 known
-  - `await`: 🎓 known
-  - Template literal: 👂 heard
-  - Strict mode: 👂 heard
+  - `await`: 🖐️ used
+  - Template literal: 🖐️ used
+  - Strict mode: 🖐️ used
   - Hoisting: 👂 heard
-  - `delete`: 🎓 known
-  - `in`: 🎓 known
-  - `super`
+  - `delete`: 🖐️ used
+  - `in`: 🖐️ used
+  - `super` 🖐️ used
   - `eval`
-  - `static`: 🎓 known
-  - `Number.parseInt`: 🎓 known
-  - `Number.parseFloat`: 🎓 known
+  - `static`: 🖐️ used
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🖐️ used
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -80,7 +80,7 @@
   - `new`: 🖐️ used
 - Functions
   - Arrow function: 🖐️ used
-  - Async function: 👂 heard
+  - Async function: 🖐️ used
   - Function declaration: 🖐️ used
   - Function expression: 🖐️ used
   - Default parameters: 🖐️ used
@@ -94,28 +94,28 @@
   - `Map`: 🖐️ used
   - `Set`: 🖐️ used
   - Weak collections: 👂 heard
-  - Typed arrays: 👂 heard
-  - Mixins: 👂 heard
+  - Typed arrays: 🖐️ used
+  - Mixins: 🖐️ used
   - `Object.assign`: 👂 heard
 - Standard classes and namespaces
   - `Proxy`: 🎓 known
   - `RegExp`
-  - `Date`: 🎓 known
-  - `Math`: 🎓 known
+  - `Date`: 🖐️ used
+  - `Math`: 🖐️ used
   - `Reflect`
-  - `Error`: 🎓 known
+  - `Error`: 🖐️ used
   - `Atomics`
-  - `JSON`: 🎓 known
+  - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`: 🎓 known
-  - `console`: 🎓 known
+  - `console`: 🖐️ used
   - Timers
 - Infrastructure
-  - V8: 👂 heard
+  - V8: 🖐️ used
   - Node.js: 📢 talked
   - npm: 📢 talked
-  - prettier: 👂 heard
+  - prettier: 🖐️ used
   - MDN: 📢 talked
   - TC39
