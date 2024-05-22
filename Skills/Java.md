@@ -1,125 +1,125 @@
 - 👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
 - Language
-    - Object 🖐️ used
-    - boolean 🖐️ used
-    - char 🖐️ used
-    - byte 🖐️ used
-    - short 🖐️ used
-    - int 🖐️ used
-    - long 🖐️ used
-    - float 🖐️ used
-    - double 🖐️ used
-    - String 🖐️ used
-    - enum 👂 heard
-    - null 🖐️ used
-    - this 🖐️ used
-    - instanceof 🖐️ used
-    - Varargs
-    - Autoboxing and Unboxing 👂 heard
-    - typeof 🖐️ used
-    - Generics 👂 heard
-    - Annotations
-    - Lambda expressions 👂 heard
-    - Streams API 👂 heard
-    - Optional class 👂 heard
-    - super
-    - static 🖐️ used
-    - final 🖐️ used
-    - throw 🖐️ used
-    - try..catch 🖐️ used
-    - switch 🖐️ used
-    - class 🖐️ used
-    - extends 🖐️ used
-    - implements
-    - new 🖐️ used
-    - return 🖐️ used
-    - break 🖐️ used
-    - continue 🖐️ used
-    - import 🖐️ used
-    - package 👂 heard
-    - label
-    - synchronized 👂 heard
-    - instanceof 👂 heard
-    - assert
-    - do..while 🖐️ used
-    - for 🖐️ used
-    - while 🖐️ used
+    - Object: 🖐️ used
+    - boolean: 🖐️ used
+    - char: 🖐️ used
+    - byte: 🖐️ used
+    - short: 🖐️ used
+    - int: 🖐️ used
+    - long: 🖐️ used
+    - float: 🖐️ used
+    - double: 🖐️ used
+    - String: 🖐️ used
+    - enum: 👂 heard
+    - null: 🖐️ used
+    - this: 🖐️ used
+    - instanceof: 🖐️ used
+    - Varargs:
+    - Autoboxing and Unboxing: 👂 heard
+    - typeof: 🖐️ used
+    - Generics: 👂 heard
+    - Annotations:
+    - Lambda expressions: 👂 heard
+    - Streams API: 👂 heard
+    - Optional class: 👂 heard
+    - super:
+    - static: 🖐️ used
+    - final: 🖐️ used
+    - throw: 🖐️ used
+    - try..catch: 🖐️ used
+    - switch: 🖐️ used
+    - class: 🖐️ used
+    - extends: 🖐️ used
+    - implements:
+    - new: 🖐️ used
+    - return: 🖐️ used
+    - break: 🖐️ used
+    - continue: 🖐️ used
+    - import: 🖐️ used
+    - package: 👂 heard
+    - label:
+    - synchronized: 👂 heard
+    - instanceof: 👂 heard
+    - assert:
+    - do..while: 🖐️ used
+    - for: 🖐️ used
+    - while: 🖐️ used
 - Functions
-    - Method declaration 🎓 known
-    - Lambda expressions 🎓 known
-    - Functional interfaces 🎓 known
-    - return 🎓 known
+    - Method declaration: 🎓 known
+    - Lambda expressions: 🎓 known
+    - Functional interfaces: 🎓 known
+    - return: 🎓 known
 - Data structures
-    - Array 🖐️ used
-    - List 🖐️ used
-    - Map 🖐️ used
-    - Set 🖐️ used
-    - Arrays 🖐️ used
-    - Object.clone 👂 heard
-    - Arrays.copyOf 👂 heard
+    - Array: 🖐️ used
+    - List: 🖐️ used
+    - Map: 🖐️ used
+    - Set: 🖐️ used
+    - Arrays: 🖐️ used
+    - Object.clone: 👂 heard
+    - Arrays.copyOf: 👂 heard
 - Standard classes and namespaces
     - java.util
-        - Date 🎓 known
-        - Random 🎓 known
-        - Scanner 🎓 known
-        - ArrayList 🎓 known
-        - HashMap 🎓 known
-        - HashSet 🎓 known
+        - Date: 🎓 known
+        - Random: 🎓 known
+        - Scanner: 🎓 known
+        - ArrayList: 🎓 known
+        - HashMap: 🎓 known
+        - HashSet: 🎓 known
     - java.lang
-        - Math 🎓 known
-        - Object 🎓 known
-        - String 🎓 known
-        - StringBuilder 🎓 known
-        - System 👂 heard
-        - Thread 👂 heard
-        - Throwable 👂 heard
+        - Math: 🎓 known
+        - Object: 🎓 known
+        - String: 🎓 known
+        - StringBuilder: 🎓 known
+        - System:👂 heard
+        - Thread:👂 heard
+        - Throwable: 👂 heard
     - java.io
-        - File 👂 heard
-        - FileReader 👂 heard
-        - FileWriter 👂 heard
-        - BufferedReader 👂 heard
-        - BufferedWriter 👂 heard
+        - File: 👂 heard
+        - FileReader: 👂 heard
+        - FileWriter: 👂 heard
+        - BufferedReader: 👂 heard
+        - BufferedWriter: 👂 heard
     - java.util.concurrent
-        - Executor 👂 heard
-        - ExecutorService
-        - Future
+        - Executor: 👂 heard
+        - ExecutorService:
+        - Future:
     - java.util.stream
-        - Stream 👂 heard
-        - Collectors 👂 heard
+        - Stream: 👂 heard
+        - Collectors: 👂 heard
     - java.time
-        - LocalDate
-        - LocalTime
-        - LocalDateTime
+        - LocalDate:
+        - LocalTime:
+        - LocalDateTime:
     - java.util.regex
-        - Pattern
-        - Matcher
+        - Pattern:
+        - Matcher:
     - java.nio
-        - ByteBuffer 👂 heard
-        - CharBuffer 👂 heard
-        - FileChannel
-        - Path
+        - ByteBuffer: 👂 heard
+        - CharBuffer: 👂 heard
+        - FileChannel:
+        - Path:
     - java.net
-        - URL
-        - URLConnection
+        - URL:
+        - URLConnection:
     - java.util.concurrent.atomic
-        - AtomicInteger
-        - AtomicLong
+        - AtomicInteger:
+        - AtomicLong:
     - java.lang.annotation
-        - Annotation
-        - Target
-        - Retention
+        - Annotation:
+        - Target:
+        - Retention:
     - java.lang.reflect
-        - Method
-        - Field
-        - Constructor
+        - Method:
+        - Field:
+        - Constructor:
 - Infrastructure
-    - JVM 👂 heard
-    - Maven
-    - Gradle
-    - Javadoc
-    - JUnit
-    - Apache Tomcat
-    - Spring Framework 👂 heard
-    - JavaFX
-    - Jakarta EE
-    - Oracle JDK / OpenJDK 👂 heard
+    - JVM: 👂 heard
+    - Maven:
+    - Gradle:
+    - Javadoc:
+    - JUnit:
+    - Apache Tomcat:
+    - Spring Framework: 👂 heard
+    - JavaFX:
+    - Jakarta EE:
+    - Oracle JDK / OpenJDK: 👂 heard
